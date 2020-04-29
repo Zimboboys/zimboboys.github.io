@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hey! I'm Ethan Zimbelman, a CS student at Cal Poly who also enjoys math and music, as well as helping people.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## college life
+I love learning, but not really school.
 
-## Features
+To make it a little more enjoyable, I joined a club called [Hack4Impact](https://github.com/hack4impact-calpoly) where I help develop software for local non-profits to help make their lives a easier. I am currently serving as the Director of Tech as well as leading one of our project teams.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+While I truly enjoy math and all of the beauties that come with it, I found that college math courses weren't too nice to me. This is where I see learning > school. Despite this, I'm still extremely interested in math (primarily numbers) so I use some of the projects I am working on to keep this passion alive.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Outside of the joys of being a student, I've found that music is pretty neat. Being a part of [Mustang Band](https://mband.calpoly.edu), jazz bands, and the music appreciation club has given me plenty to do involving music. I even made a site for Mustang Band that may or may not be published soon!
