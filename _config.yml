@@ -17,7 +17,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 url: http://zimboboys.com
-baseurl: "/"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
